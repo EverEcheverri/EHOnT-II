@@ -1,0 +1,9 @@
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\bin\Debug\netstandard2.0\Employees.Models.deps.json
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\bin\Debug\netstandard2.0\Employees.Models.dll
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\bin\Debug\netstandard2.0\Employees.Models.pdb
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\obj\Debug\netstandard2.0\Employees.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\obj\Debug\netstandard2.0\Employees.Models.AssemblyInfoInputs.cache
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\obj\Debug\netstandard2.0\Employees.Models.AssemblyInfo.cs
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\obj\Debug\netstandard2.0\Employees.Models.dll
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\obj\Debug\netstandard2.0\Employees.Models.pdb
+C:\Users\Ever\source\repos\Employees.Api\Employees.Models\obj\Debug\netstandard2.0\Employees.Models.csprojAssemblyReference.cache
