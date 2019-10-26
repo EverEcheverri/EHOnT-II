@@ -40,19 +40,5 @@ namespace Employees.Api.Controllers
         {
             return await _employeesService.GetEmployeeByIdAsync(id);
         }
-
-        //[HttpGet]
-        //public IEnumerable<string> Get()
-        //{
-        //    return new string[] { "value1", "value2" };
-        //}
-
-        //// GET: api/Employees/5
-        //[HttpGet("{id}", Name = "Get")]
-        //public string Get(int id)
-        //{
-        //    return "value";
-        //}
-
     }
 }

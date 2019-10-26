@@ -19,7 +19,7 @@ namespace Employees.Business.Services
         public async Task<IEnumerable<EmployeeDto>> GetEmployeeByIdAsync(int id)
         {
             var result = await _employeesRepository.GetEmployeesAsync();
-            return result.ToList().Where(x => x.Id == id);
+            return result.Where(x => x.Id == id);
         }
 
         public async Task<IEnumerable<EmployeeDto>> GetEmployeesAsync()
